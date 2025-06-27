@@ -22,4 +22,10 @@ This tutorial outlines the implementation of on-premises Active Directory within
 - Windows Server 2022
 - Windows 11 (21H2)
 
+<h2>List of Prerequisites</h2>
+
+- Microsoft azure account
+- windows 10/11
+- linux
+  
 
