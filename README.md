@@ -35,7 +35,7 @@ This tutorial outlines the implementation of on-premises Active Directory within
 <https://imgur.com/a/pwMOSTv" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-First, you want to create a Microsoft Azure account. When you are done with that, you want to create a resource group within Azure.
+First, you want to create a Microsoft Azure account. When you are done with that, search for 'Resource group' using the search bar at the top of the screen, and then click 'Create' in the top-left corner.
 </p>
 <br />
 
