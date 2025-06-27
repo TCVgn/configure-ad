@@ -30,4 +30,4 @@ This tutorial outlines the implementation of on-premises Active Directory within
 - Step 4
 
 <h2>Deployment and Configuration Steps</h2>
-https://imgur.com/a/pwMOSTv
+<img src="https://imgur.com/a/pwMOSTv" height="80%" width="80%" alt="Disk Sanitization Steps"/>
