@@ -9,7 +9,7 @@ This tutorial outlines the implementation of on-premises Active Directory within
 
 <h2>Video Demonstration</h2>
 
-- ### [YouTube: How to Deploy on-premises Active Directory within Azure Compute](https://www.youtube.com)
+- ### [YouTube: How to Deploy on-premises Active Directory within Azure Compute](https://youtu.be/maT8G3Y8aP0)
 
 <h2>Environments and Technologies Used</h2>
 
@@ -21,7 +21,7 @@ This tutorial outlines the implementation of on-premises Active Directory within
 <h2>Operating Systems Used </h2>
 
 - Windows Server 2022
-- Windows 10 (21H2)
+- Windows 11 (21H2)
 
 <h2>High-Level Deployment and Configuration Steps</h2>
 
